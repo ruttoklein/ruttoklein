@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rutto klein
 - 🌱 I’m currently learning at moringa
 
-
+💻 Tech Stack: JavaScript Python Flask  HTML5 CSS3 JavaScript  React 
   
   
 
